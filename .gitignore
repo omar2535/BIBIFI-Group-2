@@ -1,0 +1,5 @@
+*_priv
+*_pub
+main
+.vscode/
+filesystem/
